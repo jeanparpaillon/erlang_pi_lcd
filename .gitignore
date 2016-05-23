@@ -1,5 +1,9 @@
+*~
 *._*
+*.o
 ebin/
 rebar.lock
 _build/
 priv/
+/c_src/env.mk
+/*.d
