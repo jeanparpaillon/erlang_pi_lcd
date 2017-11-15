@@ -1,5 +1,9 @@
+*~
+*.o
+*.d
 *._*
 ebin/
 rebar.lock
 _build/
 priv/
+/.rebar
